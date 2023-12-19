@@ -8,4 +8,3 @@ The following are the topics for the lab assignments：
 4. Digital filter banks
 5. Frequency synchronization (estimation of  carrier frequency offset) using GSM synchronization channel
 6. Symbol synchronization, timing estimation, and demodulation  using RDS
-7. FM receiver: phase-locked loop using a signal from RTL-SDR
